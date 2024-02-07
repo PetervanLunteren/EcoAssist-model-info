@@ -1,6 +1,6 @@
 {
     "cls": {
-        "Namibian Desert v1": {
+        "Namibian Desert - Addax Data Science": {
             "model_fname": "namib_desert_v1.pt",
             "description": "Model to identify 30 species or higher level taxons present in the desert biome of the Skeleton Coast National Park, North Namibia. The model was trained on a set of more than 850,000 images and has an overall validation accuracy of 95.3%, a precision of 95.4%, and a recall of 95.3%.",
             "developer": "Addax Data Science",
@@ -52,7 +52,7 @@
             "var_smooth_cls_animal": false,
             "min_version": "4.4"
         },
-        "Tasmania v1": {
+        "Tasmania - University of Tasmania": {
             "model_fname": "mewc_model_224px_best.h5",
             "description": "Model trained on a camera-trap dataset collected and curated by Barry Brook and Jessie Buettel, from Tasmania, Australia. These images are drawn from a variety of environmental contexts (dry and wet temperate eucalypt forest, woodland, and grasslands) using white-, infra-red (IR) and no-glow flash types from Cuddeback, Reconyx, Swift and Bushnell cameras. The following species or aggregated classes are represented in the dataset: Tasmanian Pademelon (Thylogale billardierii), Bennetts Wallaby (Notamacropus rufogriseus), Tasmanian Devil (Sarcophilus harrisii), Feral Cat (Felis catus), Bare-nosed Wombat (Vombatus ursinus), Brushtail Possum (Trichosurus vulpecula), Fallow Deer (Dama dama), Southern Brown Bandicoot (Isoodon obesulus), Currawong (Black: Strepera fuliginosa, Grey: S. versicolor) and Bronzewing (Brush: Phaps elegans, Common: P. chalcoptera). The latter two classes are birds, each of which consist of an aggregation of two species within a genus; the former eight are mammals. ",
             "developer": "University of Tasmania",
