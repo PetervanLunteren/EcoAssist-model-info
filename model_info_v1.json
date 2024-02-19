@@ -11,6 +11,7 @@
                     "namib_desert_v1.pt"
                 ]
             ],
+            "total_download_size": "107 MB",
             "info_url": "https://addaxdatascience.com/projects/2023-01-dlc/",
             "all_classes": [
                 "aardwolf",
@@ -96,6 +97,7 @@
                     "md_v5a.0.0.pt"
                 ]
             ],
+            "total_download_size": "250 MB",
             "info_url": "https://github.com/agentmorris/MegaDetector",
             "citation": "https://arxiv.org/abs/1907.06772",
             "all_classes": [
@@ -116,6 +118,7 @@
                     "md_v5b.0.0.pt"
                 ]
             ],
+            "total_download_size": "250 MB",
             "info_url": "https://github.com/agentmorris/MegaDetector",
             "citation": "https://arxiv.org/abs/1907.06772",
             "all_classes": [
