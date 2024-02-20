@@ -7,7 +7,7 @@
             "type": "yolov8",
             "download_info": [
                 [
-                    "https://huggingface.co/Addax-Data-Science/Namib-Desert-v1/resolve/main/namib_desert_v1.pt?download=true",
+                    "https://drive.google.com/file/d/1-jNqAJeXe1Qkk9VoJ9l3TTHviMUOeFMa/view?usp=sharing",
                     "namib_desert_v1.pt"
                 ]
             ],
